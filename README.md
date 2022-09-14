@@ -1,1 +1,1 @@
-# thai-province-district-wirth-location
+JSON ฐานข้อมูลจังหวัดและอำเภอพร้อมตำแหน่ง latitude กับ longitude
